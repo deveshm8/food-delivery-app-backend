@@ -1,0 +1,22 @@
+{
+  "name": "food-delivery-app-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deveshm8/food-delivery-app-backend.git"
+  },
+  "author": "devesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deveshm8/food-delivery-app-backend/issues"
+  },
+  "homepage": "https://github.com/deveshm8/food-delivery-app-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
